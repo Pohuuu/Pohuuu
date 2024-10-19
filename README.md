@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Edmond Huynh
+- 👋 Hi, I’m Phu Huynh
 - 👀 I’m interested in Transforming customer request to database/websites
 - 🌱 I’m currently learning SQL, spreadsheets, and pursuing a business information system major
 - 💞️ I’m looking to collaborate on projects that are data related
